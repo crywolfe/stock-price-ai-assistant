@@ -14,7 +14,6 @@ This project is a financial assistant that uses AI to fetch and analyze stock pr
     - [`app.py`](#apppy)
     - [`requirements.txt`](#requirementstxt)
   - [Dependencies](#dependencies)
-  - [Contributing](#contributing)
   - [License](#license)
 
 ## Overview
@@ -41,10 +40,7 @@ The Stock Price AI Assistant is designed to provide users with up-to-date financ
    ```
 
 3. **Activate the virtual environment**:
-   - On Windows:
-     ```bash
-     venv\Scripts\activate
-     ```
+
    - On macOS/Linux:
      ```bash
      source venv/bin/activate
@@ -93,16 +89,6 @@ The Stock Price AI Assistant is designed to provide users with up-to-date financ
 - `pydantic`: For data validation.
 - `yfinance`: For fetching financial data.
 - `gradio`: For creating the user interface.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
 
 ## License
 
