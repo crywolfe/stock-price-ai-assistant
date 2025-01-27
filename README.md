@@ -4,14 +4,18 @@ This project is a financial assistant that uses AI to fetch and analyze stock pr
 
 ## Table of Contents
 
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Code Structure](#code-structure)
-6. [Dependencies](#dependencies)
-7. [Contributing](#contributing)
-8. [License](#license)
+- [Stock Price AI Assistant](#stock-price-ai-assistant)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Code Structure](#code-structure)
+    - [`app.py`](#apppy)
+    - [`requirements.txt`](#requirementstxt)
+  - [Dependencies](#dependencies)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Overview
 
@@ -27,7 +31,7 @@ The Stock Price AI Assistant is designed to provide users with up-to-date financ
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/stock-price-ai-assistant.git
+   git clone https://github.com/crywolfe/stock-price-ai-assistant.git
    cd stock-price-ai-assistant
    ```
 
